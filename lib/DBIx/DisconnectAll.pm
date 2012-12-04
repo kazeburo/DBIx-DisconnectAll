@@ -49,7 +49,7 @@ DBIx::DisconnectAll realizes disconnect_all from DBI's public API.
 
 Masahiro Nagano E<lt>kazeburo {at} gmail.comE<gt>
 
-Hiromu Tokunaga 
+Tokuhiro Matsuno
 
 =head1 SEE ALSO
 
