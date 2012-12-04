@@ -22,7 +22,9 @@ if ( $ENV{MYSQL_TESTUSER} && $ENV{MYSQL_TESTPASSWORD} &&  $avail{mysql} ) {
     ok($dbh3->{Active});
     push @dbh, $dbh3;
 }
-
+if ( $avail{Sponge} ) {
+    DBI->install_driver('Sponge');
+}
 
 dbi_disconnect_all();
 
