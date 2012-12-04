@@ -20,4 +20,5 @@
 ^\.git/
 \.sw[po]$
 MYMETA.*
+\.travis\.yml
 
