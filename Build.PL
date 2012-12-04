@@ -12,6 +12,7 @@ my $build = Module::Build->new(
     },
     configure_requires => { 'Module::Build' => '0.38' },
     requires           => {
+        'perl'        => '5.008005',
         'parent'      => '0',
         'DBD::SQLite' => '1.33',
         'DBI'         => '1.604'
