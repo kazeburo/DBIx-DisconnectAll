@@ -5,7 +5,7 @@ use warnings;
 use parent 'Exporter';
 use DBI;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 our @EXPORT = qw/dbi_disconnect_all/;
 
