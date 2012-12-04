@@ -45,10 +45,9 @@ so DBI->disconnect_all is undocumented yet and unusable.
 
 DBIx::DisconnectAll realizes disconnect_all from DBI's public API.
 
-
 =head1 AUTHOR
 
-Masahiro Nagano E<lt>kazeburo {at} gmail.comE<gt>
+Masahiro Nagano E<lt>kazeburo AAJKLFJEF@ gmail.comE<gt>
 
 Tokuhiro Matsuno
 

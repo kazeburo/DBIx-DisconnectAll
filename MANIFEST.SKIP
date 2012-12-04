@@ -22,3 +22,20 @@
 MYMETA.*
 \.travis\.yml
 
+^[^/]+\.gz$
+^Build$
+^ppport.h$
+^xshelper.h$
+cover_db
+nytprof
+perltidy.ERR$
+^README.pod$
+^README.mkdn$
+^tags$
+^MYMETA\.
+\b_build
+^MANIFEST\.SKIP
+\B\.gitignore
+\.bak$
+^inc/
+^DBIx-DisconnectAll-
