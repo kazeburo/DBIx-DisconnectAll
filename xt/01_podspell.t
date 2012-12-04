@@ -9,3 +9,9 @@ __DATA__
 Masahiro Nagano
 kazeburo {at} gmail.com
 DBIx::DisconnectAll
+API
+DBD
+DBI
+DBI's
+Hiromu
+Tokunaga
